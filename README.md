@@ -10,3 +10,6 @@ The digit in the thousands place is three times the digit in the tens place
 The number is odd
 The sum of all four digits == 27
 Write a Java console application that uses a single loop to figure out the address (4-digit number) where the Riddler intends to strike.  Display the address as "The Riddler intends to strike #### Pennsylvania Avenue."
+
+
+![Riddler](images/Riddler.png?raw=true "Riddler")
